@@ -8,5 +8,6 @@ public class one {
         System.out.println("hhhh");
         System.out.println("hellooworaiin");
         System.out.println("hello");
+        System.out.println("hellokete");
     }
 }
